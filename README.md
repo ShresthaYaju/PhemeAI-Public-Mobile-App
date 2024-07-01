@@ -3,6 +3,7 @@
 Pheme is a news app designed to keep you informed with concise, bullet-point summaries of news articles from various sources. Additionally, it creates personalized AI-generated podcasts based on the topics of your choosing. Built using React Native, Flask, and Tailwind CSS, Pheme offers a seamless and engaging user experience.
 
 https://github.com/ShresthaYaju/PhemeAI-Public-Mobile-App/assets/105899782/9b961801-b034-49f9-a76b-b476fc43bce0
+
 https://github.com/ShresthaYaju/PhemeAI-Public-Mobile-App/assets/105899782/ce3e86f1-1d92-4d92-93ae-2cf39714491c
 
 
